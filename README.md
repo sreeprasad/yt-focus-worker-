@@ -4,6 +4,11 @@ A Chrome extension that cleans up your YouTube homepage. It uses
 [Cloudflare Clef](https://blog.cloudflare.com/clef-decision-models/) to look at every video
 and keeps only the topics you care about. Everything else is hidden.
 
+
+<img width="3456" height="2066" alt="Screenshot 2026-10-26 at 20 24 24" src="https://github.com/user-attachments/assets/3975f5af-2362-4b76-8262-7a42f641d841" />
+
+
+
 Videos that are close calls are blurred instead of hidden, so you can click to see them.
 A **Peek** button shows you everything that was hidden.
 
