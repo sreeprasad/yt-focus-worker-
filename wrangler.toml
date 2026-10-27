@@ -1,0 +1,7 @@
+name = "yt-focus-worker"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# Lets the Worker call Workers AI (Clef) directly, without an API token.
+[ai]
+binding = "AI"
